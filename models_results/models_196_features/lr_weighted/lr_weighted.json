@@ -1,0 +1,1 @@
+{"C": 0.4134100435126178, "class_weight": {"0": 1, "1": 8}, "dual": false, "max_iter": 4000, "penalty": "l2", "solver": "liblinear", "tol": 0.0004570440243574692}
